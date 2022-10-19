@@ -351,7 +351,6 @@ body {
   text-align: center;
   color: var(--primary-white-color);
   background-color: rgba(47, 48, 58, 0.8);
-  height: 70px;
 }
 
 .work-title,
@@ -711,6 +710,8 @@ body {
   position: absolute;
   top: 14px;
   right: 14px;
+  width: 30px;
+  height: 30px;
   border-radius: 50%;
   background-color: #fff;
   border: 1px solid rgba(0, 0, 0, 0.1);
